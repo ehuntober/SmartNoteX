@@ -1,1 +1,2 @@
 # SmartNoteX
+#notetaking app
